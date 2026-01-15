@@ -77,7 +77,8 @@ These macros simplify logging usage:
     }
 
 #### Output Example
-    2025-05-31 19:41:53.123456 INFO Starting application 123 true
 
-📌 Notes
+![Output Example](images/OutputSample.jpg)<br>
+
+
 File logs are saved with a timestamped filename like log_20250531_194153.txt.
