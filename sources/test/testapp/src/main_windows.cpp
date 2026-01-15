@@ -1,5 +1,5 @@
-#include "uLogger.h"
-#include "iPlugin.h"
+#include "uLogger.hpp"
+#include "IPlugin.hpp"
 
 #include <windows.h>
 #include <iostream>

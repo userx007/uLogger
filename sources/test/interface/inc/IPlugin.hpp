@@ -1,4 +1,4 @@
-#include "uLogger.h"
+#include "uLogger.hpp"
 
 // Plugin interface
 class Plugin
